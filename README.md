@@ -1,0 +1,2 @@
+# imageGetter
+A test assignement
